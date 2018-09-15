@@ -32,3 +32,5 @@ Features:
   - Add/Edit/Delete users/products/promotions/Purchase requests
 
 - Payment using PayPal SandBox
+
+![Loja Online](https://github.com/bakill3/Online-Shop/blob/master/lifepage.png)
