@@ -33,4 +33,6 @@ Features:
 
 - Payment using PayPal SandBox
 
+- Use of LazyLoad to load images at the "browser's view";
+
 ![Loja Online](https://github.com/bakill3/Online-Shop/blob/master/lifepage.png)
