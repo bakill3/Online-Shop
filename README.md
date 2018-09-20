@@ -1,5 +1,5 @@
 # Online Shop
-* One of my first real WebSites (Outdated code NOT RECOMMENDED to use) *
+* * One of my first real WebSites (Outdated code NOT RECOMMENDED to use) * *
 
 ## Features:
   - Login/Register with email confirmation & Password Reset
