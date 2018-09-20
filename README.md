@@ -1,5 +1,7 @@
-# Online-Shop
-Features:
+# Online Shop
+* One of my first real WebSites (Outdated code NOT RECOMMENDED to use) *
+
+## Features:
   - Login/Register with email confirmation & Password Reset
   - Header:
     - Shopping Cart with sessions and with database (Remove/Edit quantity of each product);
