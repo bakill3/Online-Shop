@@ -27,7 +27,7 @@
     - Comment & Rating Box
     
  - Settings:
-    - Edit Profile Picture/Name/Age/Email/Adress;
+    - Edit Profile Picture/Name/Age/Email/Adress/Password;
     - Delete account;
   
 - Back-Office/Administrator Panel:
