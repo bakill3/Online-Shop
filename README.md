@@ -6,13 +6,13 @@
 ## **Key Features:**
 
 ### **User Authentication:**
-Robust and secure system enabling user registration and login, complete with email confirmation and password reset capabilities.
+  - Robust and secure system enabling user registration and login, complete with email confirmation and password reset capabilities.
 
 ### **Shopping Cart:**
-A user-friendly shopping cart is implemented with session management and database support, providing users with the ability to manage their purchases by adding, removing, or modifying the quantity of each product.
+  - A user-friendly shopping cart is implemented with session management and database support, providing users with the ability to manage their purchases by adding, removing, or modifying the quantity of each product.
 
 ### **AJAX Search Bar:**
-Fast and responsive product search functionality powered by AJAX.
+  - Fast and responsive product search functionality powered by AJAX.
 
 ### **Product Filtering:**
 Enhanced browsing experience with various product filtering options:
@@ -23,10 +23,10 @@ Enhanced browsing experience with various product filtering options:
 - Price Sorting (ASC/DESC)
 
 ### **Product Ranking:**
-Products are displayed based on a ranking system that takes into account the number of positive ratings, views, and purchases.
+  - Products are displayed based on a ranking system that takes into account the number of positive ratings, views, and purchases.
 
 ### **Promotion Display:**
-Current promotions are highlighted in a dedicated box with an active countdown timer.
+  - Current promotions are highlighted in a dedicated box with an active countdown timer.
 
 ### **Product Page:**
 Detailed product pages feature:
@@ -40,10 +40,10 @@ Detailed product pages feature:
 - Comment and Rating System
 
 ### **User Settings:**
-Users can modify their profile details including profile picture, name, age, email, address, and password. Users also have the option to delete their accounts.
+  - Users can modify their profile details including profile picture, name, age, email, address, and password. Users also have the option to delete their accounts.
 
 ### **Back-Office/Administrator Panel:**
-Admins can manage users, products, promotions, and purchase requests through a comprehensive back-office panel.
+  - Admins can manage users, products, promotions, and purchase requests through a comprehensive back-office panel.
 
 ### **PayPal Integration:**
 A reliable and well-known payment processing system, PayPal, is integrated for handling transactions.
